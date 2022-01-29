@@ -1,4 +1,4 @@
-@media screen and (max-width:700px) {
+@media screen and (max-width:800px) {
     header .container{
         display: flex;
         flex-direction: column;
@@ -16,19 +16,25 @@
     .filme-principal{
         height: 500px;
     }
+
+    h4{
+        font-size: 20px;
+    }
 }
 
 @media  screen and (min-width: 1000px) {
+    
+    
     .descricao{
         width: 50%;
     }
 
     .filme-principal{
-        height: 500px;
+        height: 600px;
     }
 
     nav{
-        margin-left: 250px;
+        margin-left: 150px;
     }
 }
 
