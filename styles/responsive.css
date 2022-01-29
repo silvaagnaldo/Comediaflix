@@ -14,8 +14,7 @@
     }
 
     .filme-principal{
-        height: 450px;
-        background-size: 750px;
+        height: 500px;
     }
 
     h4{
@@ -32,7 +31,6 @@
 
     .filme-principal{
         height: 600px;
-        width: 100%;
     }
 
     nav{
